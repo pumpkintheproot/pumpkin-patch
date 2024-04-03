@@ -1,6 +1,7 @@
+body {
 background: rgb(50,10,120);
 background: linear-gradient(0deg, rgba(50,10,120,1) 0%, rgba(85,25,207,1) 100%); 
-
+}
 
 h1 {
   font-family: Arial;
