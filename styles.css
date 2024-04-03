@@ -6,7 +6,7 @@ background: linear-gradient(0deg, rgba(50,10,120,1) 0%, rgba(85,25,207,1) 100%);
 h1 {
   font-family: Arial;
   font-size: 250%;
-  font-color: white
+  color: white
 
 }
 
@@ -18,13 +18,13 @@ h1 {
 h2 {
   font-family: Comic Sans MS;
   font-size: 150%;
-  font-color: white
+  color: white
 
 }
 
 h5 {
   font-family: Verdana;
   font-size: 100%;
-  font-color: white
+  color: white
 
 }
